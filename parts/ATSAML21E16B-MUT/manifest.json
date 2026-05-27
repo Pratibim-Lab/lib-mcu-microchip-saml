@@ -1,0 +1,17 @@
+{
+  "id": "MCU_Microchip_SAML/ATSAML21E16B-MUT:ATSAML21E16B-MUT",
+  "name": "ATSAML21E16B-MUT",
+  "library": "MCU_Microchip_SAML",
+  "file": "MCU_Microchip_SAML.kicad_symdir/ATSAML21E16B-MUT.kicad_sym",
+  "description": "SAM L21 Microchip SMART ARM-based Flash MCU, 48Mhz, 64K Flash, 8K SRAM, VQFN-32",
+  "datasheet": "https://ww1.microchip.com/downloads/aemDocuments/documents/MCU32/ProductDocuments/DataSheets/SAM-L21-Family-Data-Sheet-DS60001477.pdf",
+  "keywords": "32-bit ARM Cortex-M0+ Microcontroller",
+  "footprint": "Package_DFN_QFN:QFN-32-1EP_5x5mm_P0.5mm_EP3.6x3.6mm",
+  "extends": "ATSAML21E15B-MUT",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-microchip-saml@master/parts/ATSAML21E16B-MUT/",
+  "part_path": "parts/ATSAML21E16B-MUT",
+  "symbol_file": "parts/ATSAML21E16B-MUT/ATSAML21E16B-MUT.kicad_sym",
+  "source_library": "MCU_Microchip_SAML.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:07:02.879Z"
+}

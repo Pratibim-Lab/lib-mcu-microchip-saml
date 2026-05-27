@@ -1,0 +1,17 @@
+{
+  "id": "MCU_Microchip_SAML/ATSAML21G16B-AUT:ATSAML21G16B-AUT",
+  "name": "ATSAML21G16B-AUT",
+  "library": "MCU_Microchip_SAML",
+  "file": "MCU_Microchip_SAML.kicad_symdir/ATSAML21G16B-AUT.kicad_sym",
+  "description": "SAM L21 Microchip SMART ARM-based Flash MCU, 48Mhz, 64K Flash, 8K SRAM, TQFP-48",
+  "datasheet": "https://ww1.microchip.com/downloads/aemDocuments/documents/MCU32/ProductDocuments/DataSheets/SAM-L21-Family-Data-Sheet-DS60001477.pdf",
+  "keywords": "32-bit ARM Cortex-M0+ Microcontroller",
+  "footprint": "Package_QFP:TQFP-48_7x7mm_P0.5mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-microchip-saml@master/parts/ATSAML21G16B-AUT/",
+  "part_path": "parts/ATSAML21G16B-AUT",
+  "symbol_file": "parts/ATSAML21G16B-AUT/ATSAML21G16B-AUT.kicad_sym",
+  "source_library": "MCU_Microchip_SAML.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:07:02.896Z"
+}
